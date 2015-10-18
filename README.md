@@ -8,3 +8,14 @@
     At this time i am trying to convert the app entry into a servlet on the tomcat.
     
     The file structure is like:  
+    980a---
+             --src
+                  --
+                  --
+             
+             
+             --WebContent
+                  --.html,.jsp files
+                  --META-INF
+                  --WEB-INF
+                  --images
