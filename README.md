@@ -6,3 +6,5 @@
     taching-tool web application.
     
     At this time i am trying to convert the app entry into a servlet on the tomcat.
+    
+    The file structure is like:  
